@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "project",
+            "database": "proje",
+            "username": "root",
+            "password": "password"
+        }
+    ],
+    
+    "php.validate.executablePath": "C://xampp//php//php.exe",
+    
+    
+    
+}
